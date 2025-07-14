@@ -7,3 +7,10 @@
   > 但到了21世纪，在前面引领潮流的一直是B2C业务。
   > 《跨越鸿沟》本质上是一个B2B市场开发模式
   > 相反，我们一直称为“四个齿轮”（The Four Gears）的营销模式被证明对致力于开拓消费者业务的数字企业家更有参考价值，这就是附录B的内容
+
+
+## Credits
+- [TCG Advisors](https://www.tcg-advisors.com/)
+- 作者关联企业
+  - [Chasm Institute](http://www.chasminstitute.com/)
+  - [Chasm Group](https://chasmgroup.com/)：更偏向战略咨询
